@@ -1,7 +1,6 @@
 <person>
     <name>Max Mustermann</name>
-    <matrikelnummer>9914xecution failed for task ':resolveMainClassName'.
-> Unable to find a single main class from the following candidates [at.aau.serg.ValidationKt, at.aau.serg.SpringAppKt]625</matrikelnummer>
+    <matrikelnummer>9914625</matrikelnummer>
     <lastcommithash>52ba8eff69aaf64ff699818928e419a9cee1f6fe</lastcommithash>
     <githubusername>chmaizinger</githubusername>
     <repositoryname>se2-einzelprojekt-service-main</repositoryname>
